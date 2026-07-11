@@ -2,3 +2,19 @@ html {
     height: 100%;
     width: 100%;
 }
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+hr {
+    height: 4px;             /* Change to your desired thickness */
+    background-color: white; /* Set your line color */
+    border: none;     
+}
+
+footer {
+    width: 100%;
+}
